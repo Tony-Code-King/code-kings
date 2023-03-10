@@ -1,0 +1,5 @@
+[11-Oct-2022 18:21:42 America/New_York] PHP Warning:  Undefined variable $name in /home/coderibr/public_html/assets/php/form-process.php on line 49
+[11-Oct-2022 18:21:42 America/New_York] PHP Warning:  Undefined variable $email in /home/coderibr/public_html/assets/php/form-process.php on line 52
+[11-Oct-2022 18:21:42 America/New_York] PHP Warning:  Undefined variable $msg_subject in /home/coderibr/public_html/assets/php/form-process.php on line 55
+[11-Oct-2022 18:21:42 America/New_York] PHP Warning:  Undefined variable $phone_number in /home/coderibr/public_html/assets/php/form-process.php on line 58
+[11-Oct-2022 18:21:42 America/New_York] PHP Warning:  Undefined variable $message in /home/coderibr/public_html/assets/php/form-process.php on line 61
